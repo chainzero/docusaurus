@@ -1,4 +1,4 @@
-# Akash Audited Attributes
+# Audited Attributes
 
 ## Overview
 
